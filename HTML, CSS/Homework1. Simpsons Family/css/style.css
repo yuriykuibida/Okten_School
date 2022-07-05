@@ -1,0 +1,39 @@
+h1{
+    color: #00539CFF;
+    background-color: #EEA47FFF;
+}
+
+.description{
+    color: #2F3C7E;
+    background-color: #FBEAEB;
+}
+
+h2>a{
+    text-decoration: none;
+    color: #fbda03;
+    background-color: #69c8fc;
+}
+
+.aboutHomer{
+    color: #ADD8E6;
+    background-color:  #00008b;
+}
+
+.aboutLisa{
+    color: #1851a2;
+    background-color:  #EA738DFF;
+}
+
+.aboutBart{
+    color: #FF69B4;
+    background-color:  #00FFFF;
+}
+
+li{
+    background-color: #EC449B;
+    color: #99F443;
+}
+
+.bartImage{
+    width: 300px;
+}
