@@ -1,0 +1,48 @@
+.container{
+    width: 1300px;
+
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #34cc9d;
+
+    font-family: Calibri;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.card{
+    width: 28%;
+    box-sizing: border-box;
+    padding: 40px 20px;
+
+    background-color: #141e27;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card__quotes{
+    font-size: 60px;
+    color: #34cc9d;
+}
+
+.card__description{
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.card__avatar{
+    display: block;
+    width: 120px;
+    border-radius: 50%;
+}
+
+.card__name{
+    font-size: 30px;
+    font-weight: 800;
+    color: #34cc9d;
+}
