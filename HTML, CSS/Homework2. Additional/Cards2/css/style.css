@@ -1,0 +1,50 @@
+.container{
+    width: 1000px;
+    margin: 30px auto 0;
+
+    font-family: Calibri;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.card{
+    width: 23%;
+    box-shadow: 1px 0 1px #989898;
+    box-sizing: border-box;
+    padding: 20px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;
+}
+
+.card__icon{
+    font-size: 35px;
+    color: #989898;
+}
+
+.card__title{
+    font-size: 25px;
+    color: #b5682b;
+}
+
+.card__content{
+    color: #989898;
+    text-align: center;
+}
+
+.card__button{
+    width: 120px;
+    height: 40px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: #55c2b5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
