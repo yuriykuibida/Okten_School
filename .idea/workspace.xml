@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cb04c4d-9348-4810-ba1e-bddc56332df8" name="Changes" comment="HW2. ADD cards1">
-      <change afterPath="$PROJECT_DIR$/HTML, CSS/Homework2. Additional/Cards2/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML, CSS/Homework2. Additional/Cards2/index.html" afterDir="false" />
+    <list default="true" id="6cb04c4d-9348-4810-ba1e-bddc56332df8" name="Changes" comment="HW2. ADD cards2">
+      <change afterPath="$PROJECT_DIR$/HTML, CSS/Homework2. Additional/Cards3/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML, CSS/Homework2. Additional/Cards3/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <workItem from="1657049611557" duration="4364000" />
       <workItem from="1657120265910" duration="35000" />
       <workItem from="1657218162187" duration="3555000" />
-      <workItem from="1657355697515" duration="5002000" />
+      <workItem from="1657355697515" duration="7871000" />
     </task>
     <task id="LOCAL-00001" summary="HW1">
       <created>1657053644969</created>
@@ -88,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657358832296</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HW2. ADD cards2">
+      <created>1657360795299</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657360795299</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +116,7 @@
     <MESSAGE value="HW1" />
     <MESSAGE value="HW2. Blue Blocks" />
     <MESSAGE value="HW2. ADD cards1" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW2. ADD cards1" />
+    <MESSAGE value="HW2. ADD cards2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW2. ADD cards2" />
   </component>
 </project>
