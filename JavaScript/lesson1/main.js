@@ -63,10 +63,10 @@ console.log(b2);
 alert(b2);
 document.write(b2);
 
-let firstName = 'Куйбіда ';
-let middleName = 'Юрій ';
+let firstName = 'Куйбіда';
+let middleName = 'Юрій';
 let lastName = 'Володимирович';
-let person = firstName + middleName + lastName;
+let person = firstName + ' ' + middleName + ' ' + lastName;
 console.log(person);
 
 let a = 100;
@@ -84,7 +84,7 @@ console.log(name);
 let name2 = prompt("По батькові");
 console.log(name2);
 
-let year = prompt("Рік");
+let year = +prompt("Рік");
 console.log(year);
 
 

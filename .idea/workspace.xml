@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cb04c4d-9348-4810-ba1e-bddc56332df8" name="Changes" comment="HW4. Adaptive">
-      <change afterPath="$PROJECT_DIR$/JavaScript/lesson1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/lesson1/main.js" afterDir="false" />
+    <list default="true" id="6cb04c4d-9348-4810-ba1e-bddc56332df8" name="Changes" comment="HW1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/lesson1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/lesson1/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,8 @@
       <workItem from="1657355697515" duration="7897000" />
       <workItem from="1657653931747" duration="2769000" />
       <workItem from="1657825849724" duration="2843000" />
-      <workItem from="1658426559078" duration="2466000" />
+      <workItem from="1658426559078" duration="2525000" />
+      <workItem from="1658429385166" duration="77000" />
     </task>
     <task id="LOCAL-00001" summary="HW1">
       <created>1657053644969</created>
@@ -120,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657828704366</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="HW1">
+      <created>1658429064604</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1658429064604</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,13 +145,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="HW1" />
     <MESSAGE value="HW2. Blue Blocks" />
     <MESSAGE value="HW2. ADD cards1" />
     <MESSAGE value="HW2. ADD cards2" />
     <MESSAGE value="HW2. ADD cards3" />
     <MESSAGE value="HW3. Cards" />
     <MESSAGE value="HW4. Adaptive" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW4. Adaptive" />
+    <MESSAGE value="HW1" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW1" />
   </component>
 </project>
