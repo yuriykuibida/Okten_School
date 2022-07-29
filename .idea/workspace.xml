@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cb04c4d-9348-4810-ba1e-bddc56332df8" name="Changes" comment="HW1">
-      <change afterPath="$PROJECT_DIR$/JavaScript/lesson2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/lesson2/main.js" afterDir="false" />
+    <list default="true" id="6cb04c4d-9348-4810-ba1e-bddc56332df8" name="Changes" comment="HW2">
+      <change afterPath="$PROJECT_DIR$/JavaScript/lesson3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/lesson3/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,9 @@
       <workItem from="1657825849724" duration="2843000" />
       <workItem from="1658426559078" duration="2525000" />
       <workItem from="1658429385166" duration="122000" />
-      <workItem from="1658864171553" duration="4753000" />
+      <workItem from="1658864171553" duration="4900000" />
+      <workItem from="1659035607076" duration="2300000" />
+      <workItem from="1659072056433" duration="1966000" />
     </task>
     <task id="LOCAL-00001" summary="HW1">
       <created>1657053644969</created>
@@ -136,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658429497706</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="HW2">
+      <created>1658869130088</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1658869130088</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +170,7 @@
     <MESSAGE value="HW3. Cards" />
     <MESSAGE value="HW4. Adaptive" />
     <MESSAGE value="HW1" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW1" />
+    <MESSAGE value="HW2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW2" />
   </component>
 </project>
