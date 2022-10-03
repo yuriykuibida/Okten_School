@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cb04c4d-9348-4810-ba1e-bddc56332df8" name="Changes" comment="HW5">
-      <change afterPath="$PROJECT_DIR$/JavaScript/lesson6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/lesson6/main.js" afterDir="false" />
+    <list default="true" id="6cb04c4d-9348-4810-ba1e-bddc56332df8" name="Changes" comment="HW6">
+      <change afterPath="$PROJECT_DIR$/JavaScript/lesson8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/lesson8/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,10 @@
       <workItem from="1659465461986" duration="4170000" />
       <workItem from="1662635941618" duration="70000" />
       <workItem from="1663062627959" duration="5539000" />
-      <workItem from="1663142460642" duration="3473000" />
+      <workItem from="1663142460642" duration="3702000" />
+      <workItem from="1663527589476" duration="30000" />
+      <workItem from="1664298960331" duration="706000" />
+      <workItem from="1664810581172" duration="6077000" />
     </task>
     <task id="LOCAL-00001" summary="HW1">
       <created>1657053644969</created>
@@ -178,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663068112626</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="HW6">
+      <created>1663147514129</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1663147514129</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,6 +217,7 @@
     <MESSAGE value="HW3" />
     <MESSAGE value="HW4" />
     <MESSAGE value="HW5" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW5" />
+    <MESSAGE value="HW6" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW6" />
   </component>
 </project>
